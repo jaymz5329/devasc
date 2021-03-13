@@ -4,3 +4,4 @@ At this rate I will be ready for the exam in no time.
 =======
 I am a git novice!
 >>>>>>> test
+Another git test
